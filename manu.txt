@@ -1,0 +1,4 @@
+hello
+this file is created for testing the 
+things
+how to add and remove the files
