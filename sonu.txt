@@ -1,2 +1,4 @@
 new file created
-to check the git commands
+to check the git command
+check to new commands
+
